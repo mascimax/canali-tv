@@ -4,10 +4,10 @@
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-id="Rai 2" tvg-chno="2" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai2.png" group-title="Rai",Rai 2
 #EXTVLCOPT:http-user-agent=Hbbtv/1.7.1
-https://raidue1-dash-live.akamaized.net/dash/live/662448/raidue1/manifest.mpd
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-id="Rai 3" tvg-chno="3" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png" group-title="Rai",Rai 3
 #EXTVLCOPT:http-user-agent=Hbbtv/1.7.1
-https://raitre1-dash-live.akamaized.net/dash/live/663957/raitre1/manifest.mpd
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-id="Rete 4" tvg-chno="4" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rete4.png" group-title="Mediaset",Rete 4
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
@@ -29,7 +29,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b86ea47
 https://lostream.it/hls/telea/video.m3u8
 #EXTINF:-1 tvg-id="rai-3" tvg-chno="12" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png" group-title="Regionali",Rai 3 TGR Campania
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4120&output=16
-#EXTINF:-1 tvg-id="canale21" tvg-chno="13" tvg-logo="https://github.com/ZapprTV/channels/blob/main/logos/it/canale21.png" group-title="Regionali",Canale 21
+#EXTINF:-1 tvg-id="canale21" tvg-chno="13" tvg-logo="https://upload.wikimedia.org/wikipedia/it/0/0e/LOGO_canale21.png" group-title="Regionali",Canale 21
 https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/manifest.mpd
 #EXTINF:-1 tvg-id="50canale" tvg-chno="14" tvg-logo="https://50canale.tv/wp-content/uploads/2024/04/50canale-TR-scaled.jpg" group-title="Regionali",50 Canale HD
 https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJhNmYzMzVhZDM4ZmZmODJmY2VhY2NjM2Q4NWM3MDc2MSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzU4OTM0MjA2LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.dWVYDrc5Pt9Vobh8oMLH8JN6QXFNPbe8HLVTiwzPR3t4PLJHO6vAKs1mX2cCeCn7PGyEfpbMFC75BoGE_1kXSDgD_zyt8CtN4FbGlAPtuN9gaFfpsAThsDKJO0BiMCl6FC6aM2AohlmjQuD4vzTNOoBjNQFLoezIIP1sp2PoYYwc--uyOOdllNfWg6cRMHVKLu1jee9xBbW5Gmfno0sfKCZ5RpqBzuhabSjJA6lCJ4AMRcQOdTwGl2boGtsnzpA8yeM2ePbgMbJxBQwM7eRLf0GRLNv4yF0K6JRgi0nTXU_CyYB2Q9j6duBLgzdY5n0_GthzzCpAFP_i7CMVRzl3Jw/manifest/video.m3u8?CMCD=cid%3D%221758891007179%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2237fb6e36-2034-424e-92d6-bb0c45b19816%22%2Csu
