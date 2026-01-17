@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://epg-guide.com/wltv.gz,https://i.mjh.nz/SamsungTVPlus/it.xml.gz" x-tvg-url="http://epg-guide.com/wltv.gz,https://i.mjh.nz/SamsungTVPlus/it.xml.gz" max-conn="8"
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-chno="1" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" group-title="Rai",Rai 1
 #EXTVLCOPT:http-user-agent=Hbbtv/1.7.1
-https://raiuno1-dash-live.akamaized.net/dash/live/652296/raiuno1/manifest.mpd
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-id="Rai 2" tvg-chno="2" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai2.png" group-title="Rai",Rai 2
 #EXTVLCOPT:http-user-agent=Hbbtv/1.7.1
 https://raidue1-dash-live.akamaized.net/dash/live/662448/raidue1/manifest.mpd
@@ -25,8 +25,8 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?h
 https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
 #EXTINF:-1 tvg-name="EuroNews" tvg-chno="10" tvg-id="Euronews.it" tvg-logo="https://images.pluto.tv/channels/61b86ea479a4390007c6d5fc/colorLogoPNG.png" group-title="Notizie",EuroNews
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b86ea479a4390007c6d5fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="rtv 38" tvg-chno="11" tvg-logo="https://github.com/ZapprTV/channels/blob/main/logos/it/televomero.png" group-title="Regionali", Televomero
-https://stream2.xdevel.com/video0s100-23/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="telea" tvg-chno="11" tvg-logo="https://github.com/ZapprTV/channels/blob/main/logos/it/telea.png" group-title="Regionali", TeleA
+https://lostream.it/hls/telea/video.m3u8
 #EXTINF:-1 tvg-id="rai-3" tvg-chno="12" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png" group-title="Regionali",Rai 3 TGR Campania
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4120&output=16
 #EXTINF:-1 tvg-id="canale21" tvg-chno="13" tvg-logo="https://github.com/ZapprTV/channels/blob/main/logos/it/canale21.png" group-title="Regionali",Canale 21
