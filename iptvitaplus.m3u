@@ -25,7 +25,7 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?h
 https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
 #EXTINF:-1 tvg-name="EuroNews" tvg-chno="10" tvg-id="Euronews.it" tvg-logo="https://images.pluto.tv/channels/61b86ea479a4390007c6d5fc/colorLogoPNG.png" group-title="Notizie",EuroNews
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b86ea479a4390007c6d5fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="telea" tvg-chno="11" tvg-logo="https://github.com/ZapprTV/channels/blob/main/logos/it/telea.png" group-title="Regionali", TeleA
+#EXTINF:-1 tvg-id="telea" tvg-chno="11" tvg-logo="https://camo.githubusercontent.com/63e67add49d44e8f09747c31a393d31ef9cbebf10aa4d16be69acf4332daf707/68747470733a2f2f692e696d6775722e636f6d2f6c375a61394b482e6a7067" group-title="Regionali", TeleA
 https://lostream.it/hls/telea/video.m3u8
 #EXTINF:-1 tvg-id="rai-3" tvg-chno="12" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png" group-title="Regionali",Rai 3 TGR Campania
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4120&output=16
