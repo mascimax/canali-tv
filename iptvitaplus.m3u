@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://epg-guide.com/wltv.gz,https://i.mjh.nz/SamsungTVPlus/it.xml.gz" x-tvg-url="http://epg-guide.com/wltv.gz,https://i.mjh.nz/SamsungTVPlus/it.xml.gz" max-conn="8"
-#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-chno="1" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" group-title="Rai" timeshift="60",Rai 1
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-chno="1" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" group-title="Rai" timeshift="1",Rai 1
 #EXTVLCOPT:http-user-agent=Hbbtv/1.7.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-id="Rai 2" tvg-chno="2" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai2.png" group-title="Rai" timeshift="1",Rai 2
